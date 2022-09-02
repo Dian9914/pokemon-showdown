@@ -10189,7 +10189,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	zoroark: {
 		num: 571,
 		name: "Zoroark",
-		types: ["Dark"],
+		types: ["Dark","Ghost"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 60, atk: 105, def: 60, spa: 120, spd: 60, spe: 105},
 		abilities: {0: "Illusion"},
@@ -12354,7 +12354,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	goodra: {
 		num: 706,
 		name: "Goodra",
-		types: ["Dragon"],
+		types: ["Dragon", "Poison"],
 		baseStats: {hp: 90, atk: 100, def: 70, spa: 110, spd: 150, spe: 80},
 		abilities: {0: "Sap Sipper", 1: "Hydration", H: "Gooey"},
 		heightm: 2,
