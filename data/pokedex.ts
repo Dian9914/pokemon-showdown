@@ -10204,7 +10204,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	zoroarkhisui: {
 		num: 571,
-		name: "Zoroark-Kaetia",
+		name: "Zoroark-Hisui",
 		baseSpecies: "Zoroark",
 		forme: "Hisui",
 		types: ["Dark", "Ghost"],
