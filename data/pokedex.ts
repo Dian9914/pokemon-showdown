@@ -6042,7 +6042,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	altaria: {
 		num: 334,
 		name: "Altaria",
-		types: ["Dragon", "Flying"],
+		types: ["Fairy", "Flying"],
 		baseStats: {hp: 75, atk: 70, def: 90, spa: 70, spd: 105, spe: 80},
 		abilities: {0: "Natural Cure", H: "Cloud Nine"},
 		heightm: 1.1,
@@ -7238,7 +7238,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	luxray: {
 		num: 405,
 		name: "Luxray",
-		types: ["Electric"],
+		types: ["Electric", "Steel"],
 		baseStats: {hp: 80, atk: 120, def: 79, spa: 95, spd: 79, spe: 70},
 		abilities: {0: "Rivalry", 1: "Intimidate", H: "Guts"},
 		heightm: 1.4,
@@ -7627,7 +7627,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	mismagius: {
 		num: 429,
 		name: "Mismagius",
-		types: ["Ghost"],
+		types: ["Ghost", "Ice"],
 		baseStats: {hp: 60, atk: 60, def: 60, spa: 105, spd: 105, spe: 105},
 		abilities: {0: "Levitate"},
 		heightm: 0.9,
@@ -10860,7 +10860,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	mienshao: {
 		num: 620,
 		name: "Mienshao",
-		types: ["Fighting"],
+		types: ["Fighting", "Psychic"],
 		baseStats: {hp: 65, atk: 125, def: 60, spa: 95, spd: 60, spe: 105},
 		abilities: {0: "Inner Focus", 1: "Regenerator", H: "Reckless"},
 		heightm: 1.4,
@@ -12592,7 +12592,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	noivern: {
 		num: 715,
 		name: "Noivern",
-		types: ["Flying", "Dragon"],
+		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 85, atk: 70, def: 80, spa: 97, spd: 80, spe: 123},
 		abilities: {0: "Frisk", 1: "Infiltrator", H: "Telepathy"},
 		heightm: 1.5,
@@ -13371,7 +13371,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	lurantis: {
 		num: 754,
 		name: "Lurantis",
-		types: ["Grass"],
+		types: ["Grass","Ground"],
 		baseStats: {hp: 70, atk: 105, def: 90, spa: 80, spd: 90, spe: 45},
 		abilities: {0: "Leaf Guard", H: "Contrary"},
 		heightm: 0.9,
@@ -14669,7 +14669,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	cinderace: {
 		num: 815,
 		name: "Cinderace",
-		types: ["Fire"],
+		types: ["Fire", "Dark"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 80, atk: 116, def: 75, spa: 65, spd: 75, spe: 119},
 		abilities: {0: "Blaze", H: "Libero"},
@@ -14952,7 +14952,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	dubwool: {
 		num: 832,
 		name: "Dubwool",
-		types: ["Normal"],
+		types: ["Normal", "Steel"],
 		baseStats: {hp: 72, atk: 80, def: 100, spa: 60, spd: 90, spe: 88},
 		abilities: {0: "Fluffy", 1: "Steadfast", H: "Bulletproof"},
 		heightm: 1.3,
